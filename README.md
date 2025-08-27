@@ -1,2 +1,3 @@
 # Practise1.Js
 Live Character Counter for Textarea...
+<img width="1918" height="994" alt="image" src="https://github.com/user-attachments/assets/1a570f9b-fabb-4587-ac0f-bec1e2a91d7c" />
